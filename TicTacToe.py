@@ -166,5 +166,6 @@ def handle_turn(player):
             print('Occupied. Go again!')
 
 
+print('Welcome to Tic Tac Toe')
 play_game()
 
