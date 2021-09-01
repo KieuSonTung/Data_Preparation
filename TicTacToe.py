@@ -1,6 +1,6 @@
 import pygame
 
-# Intitialize parameters
+# Initialize parameters
 board = ['-', '-', '-', '-', '-', '-', '-', '-', '-']
 
 # Check whether the game is still going or not
